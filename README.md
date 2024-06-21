@@ -1,2 +1,2 @@
-# Fake-News-Analysis
+# Fake News Analysis
 Using NLP Techniques and various ML algorithms
